@@ -29,7 +29,7 @@ function UserProfile() {
           marginBottom: "16px",
         }}
       />
-      <h1 style={{ fontSize: "24px", fontWeight: "bold" }}>{name}</h1>
+      <h1 style={{ fontSize: "24px", fontWeight: "bold", color: "black" }}>{name}</h1>
       <p style={{ fontSize: "16px", color: "#555" }}>{bio}</p>
     </div>
   );
