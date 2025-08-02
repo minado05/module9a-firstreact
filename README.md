@@ -19,3 +19,4 @@ One error that I encountered was the name heading did not appear upon rendering.
 ## Screenshot
 
 Add a screenshot of your rendered component (you can drag and drop it here if using GitHub web interface).
+<img width="457" height="352" alt="Screenshot 2025-08-01 at 11 03 39 PM" src="https://github.com/user-attachments/assets/1b10a493-884d-4e0a-9ed6-5305ec58ad0b" />
